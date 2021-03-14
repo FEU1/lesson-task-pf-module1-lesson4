@@ -1,6 +1,6 @@
 # Programming Foundations - Module 1
 
-## Lesson Task 4 Questions
+## Lesson Task 4 Answers
 
 ### Question 1
 
@@ -8,7 +8,7 @@ Write a loop that logs the numbers 0 to 7.
 
 ### Question 2
 
-Write a loop that logs the numbers 10 to 1. Count down from 10 to 1.
+Write a loop that logs the numbers 10 to 1. So count down from 10 to 1, don't count up.
 
 ### Question 3
 
